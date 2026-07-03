@@ -14,3 +14,4 @@ An AI-powered Career Intelligence Platform that helps students and professionals
 ## Status
 
 🚧 Under Development
+Project started on July 2026.
